@@ -1,0 +1,12 @@
+{
+  "monitored_representatives": [
+    "Cleo Fields",
+    "Nancy Pelosi",
+    "Michael McCaul",
+    "Ro Khanna"
+  ],
+  "risk_parameters": {
+    "max_portfolio_size": 5,
+    "allocation_per_ticker": 500.00
+  }
+}
